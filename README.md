@@ -7,6 +7,4 @@ This is a beginners Guide to using linux on the desktop, started in august 2021,
 
 This is not an advanced guide. 
 
-This Project was made so more people can enjoy and benefit from the power of Linux.
-
-available in odt and docx
+This Project was made so more people can enjoy and benefit from the power of Linux. Available in odt and docx
